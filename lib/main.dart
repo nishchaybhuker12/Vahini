@@ -14,7 +14,6 @@ void main() async{
         const MaterialApp(
           debugShowCheckedModeBanner: false,
           home:
-          // RecordingFunction()
           SplashScreen(),
         ),
       );
@@ -32,9 +31,6 @@ void loadEssentails()async {
 
 }
 
-//
-//
-//
 // import 'package:flutter/material.dart';
 // import 'package:speech_to_text/speech_recognition_result.dart';
 // import 'package:speech_to_text/speech_to_text.dart';
