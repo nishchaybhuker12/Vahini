@@ -31,14 +31,7 @@ void loadEssentails()async {
 
 }
 
-// import 'package:flutter/material.dart';
-// import 'package:speech_to_text/speech_recognition_result.dart';
-// import 'package:speech_to_text/speech_to_text.dart';
-//
-// void main() {
-//   runApp(MyApp());
-// }
-//
+
 // class MyApp extends StatelessWidget {
 //   @override
 //   Widget build(BuildContext context) {
@@ -88,15 +81,6 @@ void loadEssentails()async {
 //     print(lastWords);
 //     setState(() {});
 //   }
-//
-//   /// This is the callback that the SpeechToText plugin calls when
-//   /// the platform returns recognized words.
-//   void onSpeechResult(SpeechRecognitionResult result) {
-//     setState(() {
-//       lastWords = result.recognizedWords;
-//     });
-//   }
-//
 //   @override
 //   Widget build(BuildContext context) {
 //     return Scaffold(
